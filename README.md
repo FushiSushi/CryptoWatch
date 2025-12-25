@@ -1,11 +1,10 @@
-# 📱 Mon Répertoire API – Application Expo
+# Mon Répertoire API – Application Expo
 
 Cette application mobile a été développée avec **React Native** et **Expo**.  
 Elle permet d’afficher une liste de contacts depuis une API REST et de gérer des favoris avec un stockage local.
 
----
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - Récupération des utilisateurs depuis une API publique
 - Affichage des contacts dans une liste
@@ -13,9 +12,7 @@ Elle permet d’afficher une liste de contacts depuis une API REST et de gérer 
 - Sauvegarde des favoris avec AsyncStorage
 - Indicateur de chargement pendant l’appel API
 
----
-
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - React Native
 - Expo
@@ -25,9 +22,3 @@ Elle permet d’afficher une liste de contacts depuis une API REST et de gérer 
 
 ---
 
-## 🚀 Lancement du projet
-
-### 1. Installer les dépendances
-
-```bash
-npm install
